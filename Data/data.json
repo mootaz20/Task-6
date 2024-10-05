@@ -1,0 +1,33 @@
+{
+  "lastId": 9,
+  "posts": [
+    {
+      "id": 1,
+      "title": "Good morning",
+      "description": "bye",
+      "name": "mootaz",
+      "date": "2022/10/7"
+    },
+    {
+      "id": 2,
+      "title": "Good Night",
+      "description": "welcome",
+      "name": "mazen",
+      "date": "2024/10/4"
+    },
+    {
+      "id": 6,
+      "title": "animal",
+      "description": "king",
+      "name": "malk",
+      "date": "2021/4/7"
+    },
+    {
+      "id": 9,
+      "title": "space",
+      "description": "space X",
+      "name": "ahmad",
+      "date": "2024/9/7"
+    }
+  ]
+}
